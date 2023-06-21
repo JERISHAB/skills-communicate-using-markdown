@@ -1,5 +1,15 @@
-# Header 
-## Small header
-![Image of a Monkey](https://www.google.com/url?sa=i&url=https%3A%2F%2Fclipart-library.com%2Fbatman-logo-clipart.html&psig=AOvVaw1eFMt1fNMgm41IDdBglIGi&ust=1687441130397000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjD94yq1P8CFQAAAAAdAAAAABAV)
-$ echo "Hello, World!"
-Hello, World!
+# This is H1 header
+## This is H2 header
+### This is H3 header
+![Image of a Monkey](https://cdn.vox-cdn.com/thumbor/Nu3K6CDdJLlMlQoqbzysh14lGf8=/0x0:1600x900/1220x813/filters:focal(672x322:928x578):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70780012/Tanjiro__Demon_Slayer_.0.png)
+
+
+```
+$ git init
+Reinitialized existing Git repository in /path/to/your/repo/.git/
+```
+
+
+- [x] Introduction
+- [x] Know more
+- [ ] Acheivements
