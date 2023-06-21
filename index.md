@@ -1,2 +1,3 @@
 # Header 
 ## Small header
+![Image of a Monkey]([[https://octodex.github.com/images/yaktocat.png](https://media.npr.org/assets/img/2017/09/12/macaca_nigra_self-portrait-3e0070aa19a7fe36e802253048411a38f14a79f8-s900-c85.webp)https://media.npr.org/assets/img/2017/09/12/macaca_nigra_self-portrait-3e0070aa19a7fe36e802253048411a38f14a79f8-s900-c85.webp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-bhsdh&psig=AOvVaw11OzpEMj9W-75yVI98QW-Z&ust=1687440737289000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIja1tKo1P8CFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-bhsdh&psig=AOvVaw11OzpEMj9W-75yVI98QW-Z&ust=1687440737289000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIja1tKo1P8CFQAAAAAdAAAAABAE)
